@@ -31,6 +31,7 @@ class WhoAmI:
     def FinishMyNovel(self):
         pass  # Your code here
 ```
+</div>
 
 <!-- Skills -->
 <h2 align="center">🚀 Brrr</h2>
