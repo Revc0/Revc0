@@ -3,17 +3,18 @@
 
 <div style="background-color: #1e1e1e; color: #ffffff; padding: 20px; border-radius: 5px;">
   <pre style="margin: 0; line-height: 125%;"><code style="font-family: 'Courier New', monospace;">
+```java
 public class WhoAmI {
-    private String user = 'Revc0';
-    private String current_work = 'Writing code';
+    private String user = "Revc0";
+    private String current_work = "Writing code";
     private String[] hobbies = {
-        'Beeing up all night Coding...',
-        'Gaming',
-        'Reading Psychology, Philosophy, Coding-related books'
+        "Beeing up all night Coding...",
+        "Gaming",
+        "Reading Psychology, Philosophy, Coding-related books"
     };
 
     public String getCity() {
-        return 'Vancouver, Canada';
+        return "Vancouver, Canada";
     }
 
     public void Ambitions() {
