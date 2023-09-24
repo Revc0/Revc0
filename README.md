@@ -3,25 +3,41 @@
 
 <div style="background-color: #1e1e1e; color: #ffffff; padding: 20px; border-radius: 5px;">
   <pre style="margin: 0; line-height: 125%;"><code style="font-family: 'Courier New', monospace;">
-<span style="color: #569cd6;">class</span> <span style="color: #4ec9b0;">WhoAmI</span>:
-    <span style="color: #dcdcaa;">user</span> = <span style="color: #ce9178;">'Revc0'</span>
-    <span style="color: #dcdcaa;">current_work</span> = <span style="color: #ce9178;">'Writing code'</span>
-    <span style="color: #dcdcaa;">hobbies</span> = [
+<span style="color: #569cd6;">public class</span> <span style="color: #4ec9b0;">WhoAmI</span> {
+    <span style="color: #dcdcaa;">private String</span> <span style="color: #ce9178;">user</span> = <span style="color: #ce9178;">'Revc0'</span>;
+    <span style="color: #dcdcaa;">private String</span> <span style="color: #ce9178;">current_work</span> = <span style="color: #ce9178;">'Writing code'</span>;
+    <span style="color: #dcdcaa;">private String[]</span> <span style="color: #ce9178;">hobbies</span> = {
         <span style="color: #ce9178;">'Beeing up all night Coding...'</span>,
         <span style="color: #ce9178;">'Gaming'</span>,
-        <span style="color: #ce9178;">'Reading Psychology, Philosophy, Coding-related books'</span>,
-    ]
+        <span style="color: #ce9178;">'Reading Psychology, Philosophy, Coding-related books'</span>
+    };
 
-    <span style="color: #569cd6;">def</span> <span style="color: #4ec9b0;">getCity</span>():
-        <span style="color: #dcdcaa;">return</span> <span style="color: #ce9178;">'Vancouver, Canada'</span>
+    <span style="color: #569cd6;">public String</span> <span style="color: #4ec9b0;">getCity</span>() {
+        <span style="color: #569cd6;">return</span> <span style="color: #ce9178;">'Vancouver, Canada'</span>;
+    }
 
-    <span style="color: #569cd6;">def</span> <span style="color: #4ec9b0;">Ambitions</span>():
-        LearnJapanese()
-        CreateSkyNet()
-        FinishMyNovel()
-        <span style="color: #dcdcaa;"># Assume 10 more awesome ambitions here  ;)</span>
+    <span style="color: #569cd6;">public void</span> <span style="color: #4ec9b0;">Ambitions</span>() {
+        LearnJapanese();
+        CreateSkyNet();
+        FinishMyNovel();
+        <span style="color: #dcdcaa;">// Assume 10 more awesome ambitions here  ;)</span>
+    }
+    
+    <span style="color: #569cd6;">private void</span> <span style="color: #4ec9b0;">LearnJapanese</span>() {
+        <span style="color: #dcdcaa;">// Your code here</span>
+    }
+    
+    <span style="color: #569cd6;">private void</span> <span style="color: #4ec9b0;">CreateSkyNet</span>() {
+        <span style="color: #dcdcaa;">// Your code here</span>
+    }
+    
+    <span style="color: #569cd6;">private void</span> <span style="color: #4ec9b0;">FinishMyNovel</span>() {
+        <span style="color: #dcdcaa;">// Your code here</span>
+    }
+}
 </code></pre>
 </div>
+
 
 <!-- Skills -->
 <h2 align="center">🚀 Brrr</h2>
