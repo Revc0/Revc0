@@ -1,6 +1,9 @@
-<!-- Introduction -->
-<h1 align="center">👋 Hello, I'm Revc0</h1>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Revc0.Revc0&left_color=red&right_color=grey">
 
+<!-- Introduction -->
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=1000&size=30&pause=1000&color=8C6CFF&background=26FF3800&center=true&vCenter=true&width=500&height=70&lines=Hi+I'm+Revc0;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
+</h1>
 
 ```Java
 public class WhoAmI {
@@ -78,6 +81,14 @@ public class WhoAmI {
   <a align="center" href="https://github.com/Revc0/Educational-Java-Web-Penetration-Test">Educational Web Penetration Testing</a>
   to git clone and host on your machine. I will keep adding to the project, and so can you if you want to help create a great educational project to make the World Wide Web a better place.
 </p>
+
+<div align="center">
+    <h2> My Contributions </h2>
+    <br>
+
+    <br><br><br>
+</div>
+
 
 <!-- Personal Website -->
 <h2 align="center">📝 Personal Websites</h2>
