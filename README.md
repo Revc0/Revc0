@@ -83,8 +83,7 @@ public class WhoAmI {
 <!-- Contributions -->
 <h2 align="center"> Contributions </h2>
 <div align="center">
-  <img src="https://github.com/Revc0/Revc0/blob/output/github-contribution-grid-snake.svg" alt="Snake Gif"/>
-  <br>
+![GitHub Contributions Snake](https://github.com/Revc0/Revc0/blob/main/path/to/your/github-snake.svg)
 </div>
 
 
