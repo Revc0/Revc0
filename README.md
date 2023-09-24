@@ -26,12 +26,12 @@ public class WhoAmI {
 
     private void LearnDart() {
         // Attempt to learn Dart...
-        throw new UnsupportedOperationException("I tried learning Dart, but I accidentally turned it into a game of Darts!");
+        throw new UnsupportedOperationException("I tried learning Dart, but I ended up programming the game of darts instead...");
     }
 
     private void LearnFlutter() {
         // Attempt to learn Flutter...
-        throw new UnsupportedOperationException("I tried learning Flutter, but I made my computer levitate instead!");
+        throw new UnsupportedOperationException("I tried learning Flutter, but I am still trying to fix that one BUG in my last project...");
     }
 
     private void DebugInZeroGravity() {
