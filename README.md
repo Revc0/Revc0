@@ -1,7 +1,7 @@
 <!-- Introduction -->
 <h1 align="center">👋 Hello, I'm Revc0</h1>
 
-<div>
+
 ```java
 class WhoAmI:
     user = 'Haany Ali'
@@ -30,7 +30,7 @@ class WhoAmI:
 
     def FinishMyNovel(self):
         pass  # Your code here
-</div>
+
 
 <!-- Skills -->
 <h2 align="center">🚀 Brrr</h2>
