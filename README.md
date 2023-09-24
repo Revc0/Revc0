@@ -80,6 +80,10 @@ public class WhoAmI {
   to git clone and host on your machine. I will keep adding to the project, and so can you if you want to help create a great educational project to make the World Wide Web a better place.
 </p>
 
+<!-- Contributions -->
+<h2 align="center"> Contributions </h2>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 <!-- Personal Website -->
 <h2 align="center">📝 Personal Websites</h2>
 <p align="center">
