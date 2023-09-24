@@ -12,28 +12,32 @@
         <span style="color: #ce9178;">'Reading Psychology, Philosophy, Coding-related books'</span>
     };
 
-    <span style="color: #569cd6;">public String</span> <span style="color: #4ec9b0;">getCity</span>() {
-        <span style="color: #569cd6;">return</span> <span style="color: #ce9178;">'Vancouver, Canada'</span>;
-    }
+  <pre>
+```java
+public String getCity() {
+    return 'Vancouver, Canada';
+}
 
-    <span style="color: #569cd6;">public void</span> <span style="color: #4ec9b0;">Ambitions</span>() {
-        LearnJapanese();
-        CreateSkyNet();
-        FinishMyNovel();
-        <span style="color: #dcdcaa;">// Assume 10 more awesome ambitions here  ;)</span>
-    }
-    
-    <span style="color: #569cd6;">private void</span> <span style="color: #4ec9b0;">LearnJapanese</span>() {
-        <span style="color: #dcdcaa;">// Your code here</span>
-    }
-    
-    <span style="color: #569cd6;">private void</span> <span style="color: #4ec9b0;">CreateSkyNet</span>() {
-        <span style="color: #dcdcaa;">// Your code here</span>
-    }
-    
-    <span style="color: #569cd6;">private void</span> <span style="color: #4ec9b0;">FinishMyNovel</span>() {
-        <span style="color: #dcdcaa;">// Your code here</span>
-    }
+public void Ambitions() {
+    LearnJapanese();
+    CreateSkyNet();
+    FinishMyNovel();
+    // Assume 10 more awesome ambitions here  ;)
+}
+
+private void LearnJapanese() {
+    // Your code here
+}
+
+private void CreateSkyNet() {
+    // Your code here
+}
+
+private void FinishMyNovel() {
+    // Your code here
+}
+```
+</pre>
 }
 </code></pre>
 </div>
