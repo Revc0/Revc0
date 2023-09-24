@@ -75,10 +75,19 @@ public class WhoAmI {
   </a>
 </p>
 <br>
-<p align="center">
-  <a align="center" href="https://github.com/Revc0/Educational-Java-Web-Penetration-Test">Educational Web Penetration Testing</a>
-  to git clone and host on your machine. I will keep adding to the project, and so can you if you want to help create a great educational project to make the World Wide Web a better place.
-</p>
+<div style="display: flex; align-items: flex-start;">
+  <a href="https://github.com/Revc0/Educational-Java-Web-Penetration-Test">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Revc0&repo=Educational-Java-Web-Penetration-Test&cache_seconds=86400&theme=dracula" alt="Repository status" style="margin-right: 15px;">
+  </a>
+  <div>
+    <h2><strong>Educational Web Penetration Testing</strong></h2>
+    <ul>
+      <li>to git clone and host on your machine. I will keep adding to the project, and so can you if you want to help create a great educational project to make the World Wide Web a better place.</li>
+    </ul>
+  </div>
+</div>
+
+
 
 <!-- Contributions -->
 <h2 align="center"> Contributions </h2>
@@ -89,18 +98,11 @@ public class WhoAmI {
 </picture>
 </div>
 
-[![Repository status](https://github-readme-stats.vercel.app/api/pin/?username=Revc0&repo=Revc0&cache_seconds=86400&theme=dracula)]
-
-<!-- Personal Website -->
-<h2 align="center">📝 Personal Websites</h2>
-<p align="center">
-  <a href="https://ToBeAdded.com">
-    Will be added soon
-  </a>
-</p>
 
 <!-- Contact -->
 <h2 align="center">💬 Let's Connect</h2>
-<p align="center">
-  📧 Email: Revc0@proton.me
-</p>
+<div align="center">
+   <ahref="mailto:Revc0@proton.me">
+        <img src="https://img.shields.io/badge/Email-Revc0%40proton.me-blue?style=for-the-badge&logo=protonmail" alt="Email">
+      </a>
+   </div>
