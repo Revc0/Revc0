@@ -20,9 +20,8 @@ public class WhoAmI {
     public void Ambitions() {
         LearnDart();
         LearnFlutter();
-        MakeCodeDisappear();
         DebugInZeroGravity();
-        // Assume 10 more hilariously ambitious goals here  ;)
+        CodeWithBlindfold();
     }
 
     private void LearnDart() {
@@ -35,17 +34,16 @@ public class WhoAmI {
         throw new UnsupportedOperationException("I tried learning Flutter, but I made my computer levitate instead!");
     }
 
-    private void MakeCodeDisappear() {
-        // Magic trick...
-        System.out.println("Watch closely! I'll make this code disappear... Ta-da! It's gone!");
-    }
-
     private void DebugInZeroGravity() {
         // Debugging in zero gravity...
         System.out.println("Debugging code in zero gravity. Floating breakpoints, anyone?");
     }
-}
 
+    private void CodeWithBlindfold() {
+        // Coding with a blindfold on...
+        System.out.println("Coding with a blindfold on. Who needs to see the code anyway?");
+    }
+}
 ```
 </div>
 
