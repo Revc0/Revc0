@@ -102,7 +102,8 @@ public class WhoAmI {
 <!-- Contact -->
 <h2 align="center">💬 Let's Connect</h2>
 <div align="center">
-   <ahref="mailto:Revc0@proton.me">
+   <a href="mailto:Revc0@proton.me">
         <img src="https://img.shields.io/badge/Email-Revc0%40proton.me-blue?style=for-the-badge&logo=protonmail" alt="Email">
-      </a>
-   </div>
+   </a>
+</div>
+
