@@ -48,6 +48,6 @@
 <!-- Contact -->
 <h2 align="center">💬 Let's Connect</h2>
 <p align="center">
-  📧 Email: [Revc0@proton.me](mailto:Revc0@proton.me)
+  📧 Email: Revc0@proton.me
 </p>
 
