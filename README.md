@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hello, I'm Revc0</h1>
 
 
-```java
+```Java
 class WhoAmI:
     user = 'Haany Ali'
     current_work = 'Writing code'
