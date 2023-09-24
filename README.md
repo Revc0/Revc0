@@ -83,7 +83,7 @@ public class WhoAmI {
 <!-- Contributions -->
 <h2 align="center"> Contributions </h2>
 <div>
-![snake gif](https://github.com/YOUR_USERNAME/Revc0/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/YOUR_USERNAME/Revc0/blob/output/github-contribution-grid-snake.gif
 </div>
 
 <!-- Personal Website -->
