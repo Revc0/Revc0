@@ -82,7 +82,9 @@ public class WhoAmI {
 
 <!-- Contributions -->
 <h2 align="center"> Contributions </h2>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+<div>
+![snake gif](https://github.com/YOUR_USERNAME/Revc0/blob/output/github-contribution-grid-snake.gif)
+</div>
 
 <!-- Personal Website -->
 <h2 align="center">📝 Personal Websites</h2>
