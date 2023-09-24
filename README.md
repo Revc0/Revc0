@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
 </p>
 
-<!-- Projects -->
+<!-- My Projects -->
 <h2 align="center">📂 My Projects</h2>
 
 <!-- Educational Penetration Testing Website -->
@@ -32,6 +32,8 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   </a>
+</p>
+<p align="center">
   A fun Educational Penetration Testing Website Project to gitclone and host on your machine. I will keep adding to the project, and so can you if you want to help create a great educational project to make the World Wide Web a better place.
 </p>
 
@@ -46,5 +48,5 @@
 <!-- Contact -->
 <h2 align="center">💬 Let's Connect</h2>
 <p align="center">
-  📧 Email: Revc0@proton.me (mailto:Revc0@proton.me)<br>
+  📧 Email: [Revc0@proton.me](mailto:Revc0@proton.me)
 </p>
