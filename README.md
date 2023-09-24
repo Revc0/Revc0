@@ -64,10 +64,12 @@ public class WhoAmI {
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Revc0&layout=compact&langs_count=8&card_width=220&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Revc0&layout=compact&langs_count=8&card_width=220&theme=dark" />
 </a>
+    <br>
+    <br>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Revc0&layout=compact&langs_count=8&card_width=220&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Revc0&layout=compact&langs_count=8&card_width=300&theme=dark" />
 </a>
     <br>
 </div>
