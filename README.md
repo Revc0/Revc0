@@ -2,27 +2,25 @@
 <h1 align="center">👋 Hello, I'm Revc0</h1>
 
 <div style="background-color: #1e1e1e; color: #ffffff; padding: 20px; border-radius: 5px;">
-  <pre>
-    <code>
-      <span style="color: #569cd6;">class</span> <span style="color: #4ec9b0;">WhoAmI</span>:
-        <span style="color: #dcdcaa;">user</span> = <span style="color: #ce9178;">'Revc0'</span>
-        <span style="color: #dcdcaa;">current_work</span> = <span style="color: #ce9178;">'Writing code'</span>
-        <span style="color: #dcdcaa;">hobbies</span> = [
-          <span style="color: #ce9178;">'Beeing up all night Coding...'</span>,
-          <span style="color: #ce9178;">'Gaming'</span>,
-          <span style="color: #ce9178;">'Reading Psychology, Philosophy, Coding-related books'</span>,
-        ]
-   
-        <span style="color: #569cd6;">def</span> <span style="color: #4ec9b0;">getCity</span>():
-          <span style="color: #dcdcaa;">return</span> <span style="color: #ce9178;">'Vancouver, Canada'</span>
-   
-        <span style="color: #569cd6;">def</span> <span style="color: #4ec9b0;">Ambitions</span>():
-          <span style="color: #ce9178;">LearnJapanese</span>()
-          <span style="color: #ce9178;">CreateSkyNet</span>()
-          <span style="color: #ce9178;">FinishMyNovel</span>()
-          <span style="color: #dcdcaa;"># Assume 10 more awesome ambitions here  ;)</span>
-    </code>
-  </pre>
+  <pre style="margin: 0; line-height: 125%;"><code style="font-family: 'Courier New', monospace;">
+<span style="color: #569cd6;">class</span> <span style="color: #4ec9b0;">WhoAmI</span>:
+    <span style="color: #dcdcaa;">user</span> = <span style="color: #ce9178;">'Revc0'</span>
+    <span style="color: #dcdcaa;">current_work</span> = <span style="color: #ce9178;">'Writing code'</span>
+    <span style="color: #dcdcaa;">hobbies</span> = [
+        <span style="color: #ce9178;">'Beeing up all night Coding...'</span>,
+        <span style="color: #ce9178;">'Gaming'</span>,
+        <span style="color: #ce9178;">'Reading Psychology, Philosophy, Coding-related books'</span>,
+    ]
+
+    <span style="color: #569cd6;">def</span> <span style="color: #4ec9b0;">getCity</span>():
+        <span style="color: #dcdcaa;">return</span> <span style="color: #ce9178;">'Vancouver, Canada'</span>
+
+    <span style="color: #569cd6;">def</span> <span style="color: #4ec9b0;">Ambitions</span>():
+        LearnJapanese()
+        CreateSkyNet()
+        FinishMyNovel()
+        <span style="color: #dcdcaa;"># Assume 10 more awesome ambitions here  ;)</span>
+</code></pre>
 </div>
 
 <!-- Skills -->
@@ -54,7 +52,7 @@
 <br>
 <p align="center">
   <a align="center" href="https://github.com/Revc0/Educational-Java-Web-Penetration-Test">Educational Web Penetration Testing</a>
-  to gitclone and host on your machine. I will keep adding to the project, and so can you if you want to help create a great educational project to make the World Wide Web a better place.
+  to git clone and host on your machine. I will keep adding to the project, and so can you if you want to help create a great educational project to make the World Wide Web a better place.
 </p>
 
 <!-- Personal Website -->
@@ -70,4 +68,3 @@
 <p align="center">
   📧 Email: Revc0@proton.me
 </p>
-
