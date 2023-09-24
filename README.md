@@ -5,7 +5,7 @@
 ```Java
 public class WhoAmI {
     private String user = "Revc0";
-    private String current_work = "Bootcamping";
+    private String current_work = "Bootcamping in CSGO";
     private String[] hobbies = {
         "Coding",
         "More Coding",
