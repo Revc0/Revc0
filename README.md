@@ -3,33 +3,49 @@
 
 
 ```Java
-class WhoAmI:
-    user = 'Haany Ali'
-    current_work = 'Writing code'
-    hobbies = [
-        'Drawing',
-        'Watching Anime',
-        'Reading Sci-Fi Novels',
-        'Being up all Night chasing that ONE BUG...'
-    ]
+public class WhoAmI {
+    private String user = "Revc0";
+    private String current_work = "Bootcamping";
+    private String[] hobbies = {
+        "Coding",
+        "More Coding",
+        "Gaming",
+        "Beeing up all night coding..."
+    };
 
-    def getCity(self):
-        return 'Vancouver, Canada'
+    public String getCity() {
+        return "Unknown";
+    }
 
-    def Ambitions(self):
-        self.LearnJapanese()
-        self.CreateSkyNet()
-        self.FinishMyNovel()
-        # Assume 10 more awesome ambitions here  ;)
-    
-    def LearnJapanese(self):
-        pass  # Your code here
+    public void Ambitions() {
+        LearnDart();
+        LearnFlutter();
+        MakeCodeDisappear();
+        DebugInZeroGravity();
+        // Assume 10 more hilariously ambitious goals here  ;)
+    }
 
-    def CreateSkyNet(self):
-        pass  # Your code here
+    private void LearnDart() {
+        // Attempt to learn Dart...
+        throw new UnsupportedOperationException("I tried learning Dart, but I accidentally turned it into a game of Darts!");
+    }
 
-    def FinishMyNovel(self):
-        pass  # Your code here
+    private void LearnFlutter() {
+        // Attempt to learn Flutter...
+        throw new UnsupportedOperationException("I tried learning Flutter, but I made my computer levitate instead!");
+    }
+
+    private void MakeCodeDisappear() {
+        // Magic trick...
+        System.out.println("Watch closely! I'll make this code disappear... Ta-da! It's gone!");
+    }
+
+    private void DebugInZeroGravity() {
+        // Debugging in zero gravity...
+        System.out.println("Debugging code in zero gravity. Floating breakpoints, anyone?");
+    }
+}
+
 ```
 </div>
 
