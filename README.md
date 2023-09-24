@@ -31,7 +31,7 @@
 <br>
 <p align="center">
   <a align="center" href="https://github.com/Revc0/Educational-Java-Web-Penetration-Test">Educational Web Penetration Testing</a>
- <strong>A fun Educational Penetration Testing Website Project</strong> to gitclone and host on your machine. I will keep adding to the project, and so can you if you want to help create a great educational project to make the World Wide Web a better place.
+  to gitclone and host on your machine. I will keep adding to the project, and so can you if you want to help create a great educational project to make the World Wide Web a better place.
 </p>
 
 <!-- Personal Website -->
