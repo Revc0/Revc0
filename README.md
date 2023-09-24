@@ -20,7 +20,7 @@
 
 <!-- Educational Penetration Testing Website -->
 <p align="center">
-  <a href="https://github.com/Revc0/Educational-Java-Web-Penetration-Test"><br>
+  <a>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -29,6 +29,7 @@
   </a>
 </p>
 <p align="center">
+  <a href="https://github.com/Revc0/Educational-Java-Web-Penetration-Test">
  <strong>A fun Educational Penetration Testing Website Project</strong> to gitclone and host on your machine. I will keep adding to the project, and so can you if you want to help create a great educational project to make the World Wide Web a better place.
 </p>
 
