@@ -1,34 +1,35 @@
 <!-- Introduction -->
 <h1 align="center">👋 Hello, I'm Revc0</h1>
 
-<div style="background-color: #1e1e1e; color: #ffffff; padding: 20px; border-radius: 5px;">
-  <pre>
-    <code style="font-family: 'Courier New', monospace;">
-      public String getCity() {
-          return "Vancouver, Canada";
-      }
+```python
+class WhoAmI:
+    user = 'Haany Ali'
+    current_work = 'Writing code'
+    hobbies = [
+        'Drawing',
+        'Watching Anime',
+        'Reading Sci-Fi Novels',
+        'Being up all Night chasing that ONE BUG...'
+    ]
 
-      public void Ambitions() {
-          LearnJapanese();
-          CreateSkyNet();
-          FinishMyNovel();
-          // Assume 10 more awesome ambitions here  ;)
-      }
+    def getCity(self):
+        return 'Vancouver, Canada'
 
-      private void LearnJapanese() {
-          // Your code here
-      }
+    def Ambitions(self):
+        self.LearnJapanese()
+        self.CreateSkyNet()
+        self.FinishMyNovel()
+        # Assume 10 more awesome ambitions here  ;)
+    
+    def LearnJapanese(self):
+        pass  # Your code here
 
-      private void CreateSkyNet() {
-          // Your code here
-      }
+    def CreateSkyNet(self):
+        pass  # Your code here
 
-      private void FinishMyNovel() {
-          // Your code here
-      }
-    </code>
-  </pre>
-</div>
+    def FinishMyNovel(self):
+        pass  # Your code here
+
 
 
 <!-- Skills -->
