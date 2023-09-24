@@ -34,8 +34,7 @@
   </a>
 </p>
 <p align="center">
-  <h2 align="center">Education Penetration Testing Website</h2>
-  A fun Educational Penetration Testing Website Project to gitclone and host on your machine. I will keep adding to the project, and so can you if you want to help create a great educational project to make the World Wide Web a better place.
+ <strong>A fun Educational Penetration Testing Website Project</strong> to gitclone and host on your machine. I will keep adding to the project, and so can you if you want to help create a great educational project to make the World Wide Web a better place.
 </p>
 
 <!-- Personal Website -->
