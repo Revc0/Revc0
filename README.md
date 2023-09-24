@@ -89,6 +89,7 @@ public class WhoAmI {
 </picture>
 </div>
 
+[![Repository status](https://github-readme-stats.vercel.app/api/pin/?username=Revc0&repo=Revc0&cache_seconds=86400&theme=dracula)]
 
 <!-- Personal Website -->
 <h2 align="center">📝 Personal Websites</h2>
