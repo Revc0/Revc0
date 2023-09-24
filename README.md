@@ -51,6 +51,7 @@ public class WhoAmI {
 </div>
 
 <!-- Skills -->
+<div align="center">
 <h2 align="center">🚀 Brrr</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -62,6 +63,14 @@ public class WhoAmI {
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
 </p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Revc0" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Revc0&layout=compact&langs_count=8&card_width=320" />
+</a>
+    <br>
+</div>
 
 <!-- My Projects -->
 <h2 align="center">📂 My Projects</h2>
@@ -81,14 +90,6 @@ public class WhoAmI {
   <a align="center" href="https://github.com/Revc0/Educational-Java-Web-Penetration-Test">Educational Web Penetration Testing</a>
   to git clone and host on your machine. I will keep adding to the project, and so can you if you want to help create a great educational project to make the World Wide Web a better place.
 </p>
-
-<div align="center">
-    <h2> My Contributions </h2>
-    <br>
-
-    <br><br><br>
-</div>
-
 
 <!-- Personal Website -->
 <h2 align="center">📝 Personal Websites</h2>
