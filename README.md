@@ -2,41 +2,32 @@
 <h1 align="center">👋 Hello, I'm Revc0</h1>
 
 <div style="background-color: #1e1e1e; color: #ffffff; padding: 20px; border-radius: 5px;">
-  <pre style="margin: 0; line-height: 125%;"><code style="font-family: 'Courier New', monospace;">
-```java
-public class WhoAmI {
-    private String user = "Revc0";
-    private String current_work = "Writing code";
-    private String[] hobbies = {
-        "Beeing up all night Coding...",
-        "Gaming",
-        "Reading Psychology, Philosophy, Coding-related books"
-    };
+  <pre>
+    <code style="font-family: 'Courier New', monospace;">
+      public String getCity() {
+          return "Vancouver, Canada";
+      }
 
-    public String getCity() {
-        return "Vancouver, Canada";
-    }
+      public void Ambitions() {
+          LearnJapanese();
+          CreateSkyNet();
+          FinishMyNovel();
+          // Assume 10 more awesome ambitions here  ;)
+      }
 
-    public void Ambitions() {
-        LearnJapanese();
-        CreateSkyNet();
-        FinishMyNovel();
-        // Assume 10 more awesome ambitions here  ;)
-    }
+      private void LearnJapanese() {
+          // Your code here
+      }
 
-    private void LearnJapanese() {
-        // Your code here
-    }
+      private void CreateSkyNet() {
+          // Your code here
+      }
 
-    private void CreateSkyNet() {
-        // Your code here
-    }
-
-    private void FinishMyNovel() {
-        // Your code here
-    }
-}
-  </code></pre>
+      private void FinishMyNovel() {
+          // Your code here
+      }
+    </code>
+  </pre>
 </div>
 
 
