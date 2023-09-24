@@ -82,7 +82,7 @@ public class WhoAmI {
   <div>
     <h2><strong>Educational Web Penetration Testing</strong></h2>
     <ul>
-      <li>to git clone and host on your machine. I will keep adding to the project, and so can you if you want to help create a great educational project to make the World Wide Web a better place.</li>
+      <li>You can git clone and host this project on your own machine. I will keep adding to the project, and so can you if you want to help create a great educational project to make the World Wide Web a better place feel free to             contribute.</li>
     </ul>
   </div>
 </div>
