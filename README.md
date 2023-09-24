@@ -3,43 +3,39 @@
 
 <div style="background-color: #1e1e1e; color: #ffffff; padding: 20px; border-radius: 5px;">
   <pre style="margin: 0; line-height: 125%;"><code style="font-family: 'Courier New', monospace;">
-<span style="color: #569cd6;">public class</span> <span style="color: #4ec9b0;">WhoAmI</span> {
-    <span style="color: #dcdcaa;">private String</span> <span style="color: #ce9178;">user</span> = <span style="color: #ce9178;">'Revc0'</span>;
-    <span style="color: #dcdcaa;">private String</span> <span style="color: #ce9178;">current_work</span> = <span style="color: #ce9178;">'Writing code'</span>;
-    <span style="color: #dcdcaa;">private String[]</span> <span style="color: #ce9178;">hobbies</span> = {
-        <span style="color: #ce9178;">'Beeing up all night Coding...'</span>,
-        <span style="color: #ce9178;">'Gaming'</span>,
-        <span style="color: #ce9178;">'Reading Psychology, Philosophy, Coding-related books'</span>
+public class WhoAmI {
+    private String user = 'Revc0';
+    private String current_work = 'Writing code';
+    private String[] hobbies = {
+        'Beeing up all night Coding...',
+        'Gaming',
+        'Reading Psychology, Philosophy, Coding-related books'
     };
 
-  <pre>
-```java
-public String getCity() {
-    return 'Vancouver, Canada';
-}
+    public String getCity() {
+        return 'Vancouver, Canada';
+    }
 
-public void Ambitions() {
-    LearnJapanese();
-    CreateSkyNet();
-    FinishMyNovel();
-    // Assume 10 more awesome ambitions here  ;)
-}
+    public void Ambitions() {
+        LearnJapanese();
+        CreateSkyNet();
+        FinishMyNovel();
+        // Assume 10 more awesome ambitions here  ;)
+    }
 
-private void LearnJapanese() {
-    // Your code here
-}
+    private void LearnJapanese() {
+        // Your code here
+    }
 
-private void CreateSkyNet() {
-    // Your code here
-}
+    private void CreateSkyNet() {
+        // Your code here
+    }
 
-private void FinishMyNovel() {
-    // Your code here
+    private void FinishMyNovel() {
+        // Your code here
+    }
 }
-```
-</pre>
-}
-</code></pre>
+  </code></pre>
 </div>
 
 
