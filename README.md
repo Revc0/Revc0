@@ -1,8 +1,3 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/raw/main/assets/header.png" alt="Header Image">
-</p>
-
 <!-- Introduction -->
 <h1 align="center">👋 Hello, I'm Revc0</h1>
 <p align="center">A developer on a journey through the realms of code.</p>
