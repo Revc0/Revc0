@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   </a>
 </p>
-<a href="https://github.com/Revc0/Educational-Java-Web-Penetration-Test"> </a> <br>
+<a href="https://github.com/Revc0/Educational-Java-Web-Penetration-Test">Educational Web Penetration Testing</a> <br>
 <p align="center">
  <strong>A fun Educational Penetration Testing Website Project</strong> to gitclone and host on your machine. I will keep adding to the project, and so can you if you want to help create a great educational project to make the World Wide Web a better place.
 </p>
