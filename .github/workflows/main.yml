@@ -24,16 +24,19 @@ jobs:
         with:
           node-version: '16.x'
 
-      # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      # Checks out the repository
       - uses: actions/checkout@v2
 
-      # Generates the snake  
-      - uses: Platane/snk@master
-        id: snake-gif
+      # Updated Step for Generating the snake with Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
-          github_user_name: Revc0
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Show the status of the build. Makes it easier for debugging (if there are any issues).
       - run: git status
