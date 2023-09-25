@@ -90,7 +90,7 @@ public class WhoAmI {
 
 
 <!-- Contributions -->
-<h2 align="center"> Contributions </h2>
+<h2 align="center">:snake: Contributions :snake:</h2>
 <div align="center">
     <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Revc0/Revc0/blob/output/github-snake.svg" />
