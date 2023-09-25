@@ -82,7 +82,6 @@ public class WhoAmI {
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
         <br><br>
         <a href="https://github.com/Revc0/Educational-Java-Web-Penetration-Test">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Revc0&repo=Educational-Java-Web-Penetration-Test&cache_seconds=86400&theme=dracula" alt="Repository status">
