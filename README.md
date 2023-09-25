@@ -36,8 +36,12 @@ public class WhoAmI {
 ```
 
 <!-- Skills -->
-<div align="center">
 <h2 align="center">🚀 Brrr</h2>
+
+<table align="center">
+<tr>
+<td align="center" style="border: 3px solid #8C6CFF; border-radius: 10px; background-color: #fafafa; box-shadow: 2px 2px 5px #888888;">
+    <p align="center">
 <p align="center">
   <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -56,7 +60,9 @@ public class WhoAmI {
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Revc0&layout=compact&langs_count=8&card_width=300&theme=dark" />
 </a>
     <br>
-</div>
+</td>
+</tr>
+</table>
 
 <!-- My Projects -->
 <h2 align="center">📂 My Projects</h2>
@@ -94,14 +100,20 @@ public class WhoAmI {
 </table>
 
 
-<!-- Contributions -->
 <h2 align="center">:snake: Contributions :snake:</h2>
-<div align="center">
+
+<table align="center">
+<tr>
+<td align="center" style="border: 3px solid #8C6CFF; border-radius: 10px; background-color: #fafafa; box-shadow: 2px 2px 5px #888888;">
     <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Revc0/Revc0/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Revc0/Revc0/blob/output/github-snake.svg" />
-</picture>
-</div>
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/Revc0/Revc0/blob/output/github-snake.svg" />
+        <img alt="github-snake" src="https://github.com/Revc0/Revc0/blob/output/github-snake.svg" />
+    </picture>
+</td>
+</tr>
+</table>
+
+
 
 
 <!-- Contact -->
