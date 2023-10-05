@@ -100,6 +100,7 @@ public class WhoAmI {
 </table>
 
 
+<h2 align="center">📊 GitHub Contribution Graph 📊</h2>
 
 <table align="center">
 <tr>
@@ -125,8 +126,6 @@ public class WhoAmI {
 </td>
 </tr>
 </table>
-
-
 
 <!-- Contact -->
 <h2 align="center">💬 Let's Connect</h2>
