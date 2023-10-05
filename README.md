@@ -1,9 +1,38 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Revc0.Revc0&left_color=red&right_color=grey">
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <!-- Counter -->
+      <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Revc0.Revc0&left_color=red&right_color=grey" />
+      <!-- Centered Image in a Table (GIF) -->
+      <table align="center">
+        <tr>
+          <td align="center">
+            <img src="https://media.tenor.com/7e4UIVTcQUwAAAAC/bukowski.gif" alt="Bukowski GIF" />
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <!-- Introduction with Right-aligned Text -->
+      <h1 align="center">
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=1000&size=30&pause=1000&color=8C6CFF&background=26FF3800&center=true&vCenter=true&width=500&height=70&lines=Hi+I'm+Revc0;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
+      </h1>
+      <!-- Your other content here, properly formatted -->
+    <blockquote>
+        <p align="center">"Find what you love and let it kill you." - Charles Bukowski</p>
+      </blockquote>
+        <!-- Quote Block for Alan Watts -->
+<blockquote>
+  <p align="center">"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing." - Alan Watts</p>
+</blockquote>
 
-<!-- Introduction -->
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=1000&size=30&pause=1000&color=8C6CFF&background=26FF3800&center=true&vCenter=true&width=500&height=70&lines=Hi+I'm+Revc0;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
-</h1>
+<!-- Quote Block for Lao Tzu -->
+<blockquote>
+  <p align="center">"Nature does not hurry, yet everything is accomplished." - Lao Tzu</p>
+</blockquote>
+    </td>
+  </tr>
+</table>
 
 ```Java
 public class WhoAmI {
@@ -126,6 +155,7 @@ public class WhoAmI {
 </td>
 </tr>
 </table>
+
 
 <!-- Contact -->
 <h2 align="center">💬 Let's Connect</h2>
