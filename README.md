@@ -37,7 +37,7 @@
 ```Java
 public class WhoAmI {
     private String user = "Revc0";
-    private String current_work = "Bootcamping in CSGO";
+    private String current_work = "Bootcamping in CS2";
     private String[] hobbies = {
         "Coding",
         "Beeing up all night coding..."
@@ -61,7 +61,7 @@ public class WhoAmI {
         // Coding with a blindfold on...
         System.out.println("Coding with a blindfold on. Who needs to see the code anyway?");
     }
-}
+} 
 ```
 
 <!-- Skills -->
