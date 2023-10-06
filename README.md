@@ -53,10 +53,12 @@ public class WhoAmI {
     }
 
     private void DebugInZeroGravity() {
+        // Debugging in zero gravity...
         System.out.println("Debugging code in zero gravity. Floating breakpoints, anyone?");
     }
 
     private void CodeWithBlindfold() {
+        // Coding with a blindfold on...
         System.out.println("Coding with a blindfold on. Who needs to see the code anyway?");
     }
 } 
