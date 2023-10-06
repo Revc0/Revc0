@@ -129,20 +129,6 @@ public class WhoAmI {
 </table>
 
 
-<h2 align="center">📊 GitHub Contribution Graph 📊</h2>
-
-<table align="center">
-<tr>
-<td align="center" style="border: 3px solid #8C6CFF; border-radius: 10px; background-color: #fafafa; box-shadow: 2px 2px 5px #888888;">
-    <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/Revc0/github-readme-activity-graph" />
-        <img alt="github-snake" src="https://github-readme-activity-graph.vercel.app/graph?username=Revc0&theme=github" />
-    </picture>
-</td>
-</tr>
-</table>
-
-
 <h2 align="center">:snake: Contributions :snake:</h2>
 
 <table align="center">
