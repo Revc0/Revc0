@@ -18,9 +18,9 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=1000&size=30&pause=1000&color=8C6CFF&background=26FF3800&center=true&vCenter=true&width=500&height=70&lines=Hi+I'm+Revc0;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
       </h1>
       <!-- Your other content here, properly formatted -->
-    <blockquote>
-        <p align="center">"Find what you love and let it kill you." - Charles Bukowski</p>
-      </blockquote>
+   <blockquote>
+  <p align="center">"Talk is cheap. Show me the code." - Linus Torvalds</p>
+</blockquote>
         <!-- Quote Block for Alan Watts -->
 <blockquote>
   <p align="center">"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing." - Alan Watts</p>
@@ -33,6 +33,7 @@
     </td>
   </tr>
 </table>
+
 
 ```Java
 public class WhoAmI {
