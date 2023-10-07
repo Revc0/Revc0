@@ -23,7 +23,7 @@
 </blockquote>
         <!-- Quote Block for Alan Watts -->
 <blockquote>
-  <p align="center">"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing." - Alan Watts</p>
+  <p align="center">"First, solve the problem. Then, write the code." - John Johnson</p>
 </blockquote>
 
 <!-- Quote Block for Lao Tzu -->
