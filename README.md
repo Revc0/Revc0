@@ -18,17 +18,17 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=1000&size=30&pause=1000&color=8C6CFF&background=26FF3800&center=true&vCenter=true&width=500&height=70&lines=Hi+I'm+Revc0;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
       </h1>
       <!-- Your other content here, properly formatted -->
-   <blockquote>
-  <p align="center">"Talk is cheap. Show me the code." - Linus Torvalds</p>
+  <blockquote>
+  <p align="center">"Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson</p>
 </blockquote>
         <!-- Quote Block for Alan Watts -->
 <blockquote>
-  <p align="center">"First, solve the problem. Then, write the code." - John Johnson</p>
+  <p align="center">"The most important property of a program is whether it accomplishes the intention of its user." - C.A.R. Hoare</p>
 </blockquote>
 
 <!-- Quote Block for Lao Tzu -->
 <blockquote>
-  <p align="center">"Nature does not hurry, yet everything is accomplished." - Lao Tzu</p>
+  <p align="center">"Simplicity is the soul of efficiency." - Austin Freeman</p>
 </blockquote>
     </td>
   </tr>
