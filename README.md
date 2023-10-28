@@ -99,42 +99,6 @@ public class WhoAmI {
 </tr>
 </table>
 
-<!-- My Projects -->
-<h2 align="center">📂 My Projects</h2>
-
-<table width="100%">
-<tr>
-       <!-- Badges for the second project -->
-   <td valign="top" align="center" width="50%">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        <br><br>
-        <a href="https://github.com/Revc0/JavaScript_Effect_Templates">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Revc0&repo=JavaScript_Effect_Templates&cache_seconds=86400&theme=dracula" alt="Repository status for the new project">
-        </a>
-        <br>
-        <h3><strong>JavaScript Effect Templates</strong></h3>
-        <p>Just some effect templates.</p>
-    </td>
-    <!-- Badges for the first project -->
-    <td valign="top" align="center" width="50%">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        <br><br>
-        <a href="https://github.com/Revc0/Educational-Java-Web-Penetration-Test">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Revc0&repo=Educational-Java-Web-Penetration-Test&cache_seconds=86400&theme=dracula" alt="Repository status">
-        </a>
-        <br>
-        <h3><strong>Educational Web Penetration Testing</strong></h3>
-        <p>You can git clone and host this project on your own machine. I will keep adding to the project, and so can you if you want to help create a great educational project to make the World Wide Web a better place feel free to contribute.</p>
-    </td>
-</tr>
-</table>
-
-
 <h2 align="center">:snake: Contributions :snake:</h2>
 
 <table align="center">
