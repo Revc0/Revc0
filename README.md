@@ -89,10 +89,10 @@ public class WhoAmI {
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Revc0">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Revc0&layout=compact&langs_count=8&card_width=220&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Revc0">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Revc0&layout=compact&langs_count=8&card_width=300&theme=dark" />
 </a>
     <br>
