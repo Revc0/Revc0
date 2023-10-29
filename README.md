@@ -93,9 +93,6 @@ public class WhoAmI {
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Revc0&layout=compact&langs_count=8&card_width=220&theme=dark" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Revc0&layout=compact&langs_count=8&card_width=300&theme=dark" />
-</a>
     <br>
 </td>
 </tr>
