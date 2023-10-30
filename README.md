@@ -7,7 +7,7 @@
       <table align="center">
         <tr>
           <td align="center">
-            <img src="https://media.tenor.com/7e4UIVTcQUwAAAAC/bukowski.gif" alt="Bukowski GIF" />
+            <img src="https://media.tenor.com/EK_plqlM_D4AAAAd/dan-shiffman-coding.gif" alt="Debug GIF" />
           </td>
         </tr>
       </table>
@@ -36,31 +36,24 @@
 
 
 ```Java
-public class WhoAmI {
-    private String user = "Revc0";
-    private String current_work = "Bootcamping in CS2";
-    private String[] hobbies = {
-        "Coding",
-        "Beeing up all night coding..."
-    };
+public class DeveloperProfile {
 
-    public String getCity() {
-        return "Unknown";
+    // Personal Details
+    private String name = "Revc0";
+    private String currentRole = "Coding Bootcamp Student";
+    private String location = "Undisclosed";
+
+public void aspirations() {
+        reachForTheStars();
+        navigateUnchartedCode();
     }
 
-    public void Ambitions() {
-        DebugInZeroGravity();
-        CodeWithBlindfold();
+    private void reachForTheStars() {
+        System.out.println("Aiming high, reaching for those ambitious coding milestones.");
     }
 
-    private void DebugInZeroGravity() {
-        // Debugging in zero gravity...
-        System.out.println("Debugging code in zero gravity. Floating breakpoints, anyone?");
-    }
-
-    private void CodeWithBlindfold() {
-        // Coding with a blindfold on...
-        System.out.println("Coding with a blindfold on. Who needs to see the code anyway?");
+    private void navigateUnchartedCode() {
+        System.out.println("Delving into the unknown territories of code, seeking innovations and new solutions.");
     }
 } 
 ```
