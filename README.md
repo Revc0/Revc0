@@ -7,7 +7,7 @@
       <table align="center">
         <tr>
           <td align="center">
-            <img src="https://media.tenor.com/EK_plqlM_D4AAAAd/dan-shiffman-coding.gif" alt="Debug GIF" />
+            <img src="https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif" alt="DGIF"/>
           </td>
         </tr>
       </table>
@@ -17,7 +17,6 @@
       <h1 align="center">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=1000&size=30&pause=1000&color=8C6CFF&background=26FF3800&center=true&vCenter=true&width=500&height=70&lines=Hi+I'm+Revc0;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
       </h1>
-      <!-- Your other content here, properly formatted -->
   <blockquote>
   <p align="center">"Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson</p>
 </blockquote>
@@ -81,6 +80,11 @@ public void aspirations() {
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node">
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
 </p>
 <a href="https://github.com/Revc0">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Revc0&layout=compact&langs_count=8&card_width=220&theme=dark" />
